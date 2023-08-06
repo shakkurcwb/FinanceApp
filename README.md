@@ -6,6 +6,8 @@ FinanceApp is a user-friendly financial management application that streamlines 
 
 Easily track your expenses, income, and savings in one place, allowing you to make informed financial decisions with confidence.
 
+![Account Picture](public/account-pic.png)
+
 ## Requirements
 
 - PHP 7.3 or higher
